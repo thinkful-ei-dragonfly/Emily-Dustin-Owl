@@ -1,12 +1,11 @@
-import React from 'react';
-import Participant from './Participant';
+import React from 'react'; 
+import StageAvatar from './StageAvatar';
 
-
-export default function(props) {
+export default function(props){
   return (
-    <div className="participant_list">
+    <div className="Stage">
       {props.participants.map(participant => (
-      <Participant 
+      <StageAvatar 
       key={participant.id} 
       name={participant.name} 
       avatar={participant.avatar} 
@@ -15,4 +14,3 @@ export default function(props) {
     </div>
   );
 }
-

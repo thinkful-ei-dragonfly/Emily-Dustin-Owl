@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chat Log component renders the UI as expexted 1`] = `
+<div
+  className="participant_list"
+>
+  <div
+    className="message"
+  >
+    <img
+      alt="user avatar"
+      src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+    />
+    <h3>
+      Axe Kubicka
+    </h3>
+    <p>
+      7:50:46 AM
+    </p>
+    <p
+      className="message-text"
+    >
+      Hello world
+    </p>
+  </div>
+  <div
+    className="thumbs-up"
+  >
+    <p>
+      <strong>
+        Caty Flucker
+      </strong>
+      gave a thumbs up 
+      <span>
+        symbol
+      </span>
+    </p>
+  </div>
+  <div
+    className="thumbs-down"
+  >
+    <p>
+      <strong>
+        Frank Runciman
+      </strong>
+      gave a thumbs down 
+      <span>
+        symbol
+      </span>
+    </p>
+  </div>
+</div>
+`;

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chat Event component renders the UI as expexted 1`] = `
+<div
+  className="message"
+>
+  <img
+    alt="user avatar"
+    src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+  />
+  <h3>
+    Caty Flucker
+  </h3>
+  <p>
+    7:49:04 AM
+  </p>
+  <p
+    className="message-text"
+  >
+    Hello
+  </p>
+</div>
+`;

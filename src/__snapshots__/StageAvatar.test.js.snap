@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List component renders the UI as expexted 1`] = `
+<div
+  className="onstage-part"
+>
+  <h3>
+    name
+  </h3>
+  <img
+    alt="user avatar"
+    src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+  />
+  <div
+    className="icons"
+  />
+</div>
+`;
