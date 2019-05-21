@@ -15,7 +15,7 @@ exports[`Chat Log component renders the UI as expexted 1`] = `
       Axe Kubicka
     </h3>
     <p>
-      7:50:46 AM
+      5:50:46 AM
     </p>
     <p
       className="message-text"
@@ -30,10 +30,10 @@ exports[`Chat Log component renders the UI as expexted 1`] = `
       <strong>
         Caty Flucker
       </strong>
-      gave a thumbs up 
-      <span>
-        symbol
-      </span>
+      gave a thumbs up
+      <i
+        className="fas fa-thumbs-up"
+      />
     </p>
   </div>
   <div
@@ -43,10 +43,10 @@ exports[`Chat Log component renders the UI as expexted 1`] = `
       <strong>
         Frank Runciman
       </strong>
-      gave a thumbs down 
-      <span>
-        symbol
-      </span>
+      gave a thumbs down
+      <i
+        className="fas fa-thumbs-down"
+      />
     </p>
   </div>
 </div>
