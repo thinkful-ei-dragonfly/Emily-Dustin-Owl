@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List component renders the UI as expexted 1`] = `
+<div
+  className="participant_list"
+>
+  <div
+    className="Participant"
+  >
+    <h3>
+      Koren Templeton
+    </h3>
+    <img
+      alt="user avatar"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <p
+      className="active"
+    >
+      onStage
+    </p>
+  </div>
+  <div
+    className="Participant"
+  >
+    <h3>
+      Caty Flucker
+    </h3>
+    <img
+      alt="user avatar"
+      src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+    />
+    <p
+      className="active"
+    >
+      inSession
+    </p>
+  </div>
+</div>
+`;
